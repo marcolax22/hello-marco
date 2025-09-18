@@ -4,30 +4,29 @@ title = "Initio - Free, multipurpose html5 template by GetTemplate"
 theme = "hugo-initio"
 
 [params]
-    name = "Anthony Russel"
-    description = "A mystery person"
-    email = "anthony.russel42@example.com"
-    phone = "+234 23 9873237"
-    address = "234 Hidden Pond Road, Ashland City, TN 37015"
-    year = 2017
-    avatar = "images/guy.jpg"
+    name = "Marco Lax"
+    description = "Data Engineering and Data Science"
+    email = "marco.lax.jobs@gmail.com"
+    phone = ""
+    year = 2025
+    avatar = "images/marco_new.jpg"
     avatarclass = "circle"
     background = ""
-    banner = "images/bg_head.jpg"
+    banner = "images/sky.jpg"
     favicon = "images/gt_favicon.png"
-    DateForm = "January 2, 2006"
-    author = "Sergey Pozhilov (GetTemplate.com)"
+    DateForm = "September 18, 2025"
+    author = "Marco Lax"
 
     showSubheader = true
-    showServices = true
+    showServices = false
     showRecentWorks = true
-    showDownloads = true
-    showClients = true
+    showDownloads = false
+    showClients = false
 
     showFooterContact = true
     showFooterFollowMe = true
-    showFooterTextWidget = true
-    showFooterFormWidget = true
+    showFooterTextWidget = false
+    showFooterFormWidget = false
 
 [[menu.main]]
     name = "home"
@@ -35,7 +34,7 @@ theme = "hugo-initio"
     weight = 1
 [[menu.main]]
     name = "blog"
-    url = "/post/"
+    url = "/blog/"
     weight = 5
 
 [params.disqus]
@@ -52,21 +51,21 @@ theme = "hugo-initio"
 	title = "facebook"
 	url = "https://www.facebook.com/nickname"
     icon = "fab fa-facebook-square"
-    footer = true
-    sharethis = true
+    footer = false
+    sharethis = false
     network = "facebook"
 [[params.social]]
 	title = "twitter"
 	url = "https://twitter.com/nickname"
     icon = "fab fa-twitter-square"
-    footer = true
-    sharethis = true
+    footer = false
+    sharethis = false
     network = "twitter"
 [[params.social]]
 	title = "instagram"
 	url = "https://www.instagram.com/nickname"
     icon = "fab fa-instagram"
-    footer = true
+    footer = false
     sharethis = false
     network = ""
 [[params.social]]
@@ -74,13 +73,13 @@ theme = "hugo-initio"
 	url = "https://plus.google.com/+nickname"
     icon = "fab fa-google-plus-square"
     footer = false
-    sharethis = true
+    sharethis = false
     network = "googleplus"
 [[params.social]]
 	title = "linkedin"
-	url = "https://www.linkedin.com/in/nickname"
+	url = "https://www.linkedin.com/in/marco-lax-698917217/"
     icon = "fab fa-linkedin"
-    footer = false
+    footer = true
     sharethis = true
     network = "linkedin"
 [[params.social]]
@@ -92,15 +91,15 @@ theme = "hugo-initio"
     network = "tumblr"
 [[params.social]]
 	title = "github"
-	url = "https://github.com/nickname"
+	url = "https://github.com/marcolax22"
     icon = "fab fa-github"
     footer = true
-    sharethis = false
+    sharethis = true
     network = ""
 [[params.social]]
 	title = "email"
-	url = "mailto:some.email@somewhere.com"
+	url = "mailto:marco.lax.jobs@gmail.com"
     icon = "fas fa-envelope-square"
-    footer = false
+    footer = true
     sharethis = true
     network = "email"

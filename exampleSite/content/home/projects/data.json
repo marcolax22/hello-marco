@@ -1,0 +1,23 @@
+[
+    {
+        "id": 0,
+        "name": "Algorihtmic Fairness - Master Thesis in Social Data Science",
+        "image": "images/fairness.jpg",
+        "url": "https://github.com/marcolax22/algorithmic-fairness",
+        "items": []
+    },
+    {
+        "id": 1,
+        "name": "Climate Contrarian Claims on YouTube",
+        "image": "images/climate_action.jpg",
+        "url": "https://github.com/marcolax22/digital_methods",
+        "items": []
+    },
+    {
+        "id": 2,
+        "name": "Representation and potential influence of voters with a migration background in Germany",
+        "image": "images/voting.jpg",
+        "url": "https://github.com/marcolax22/Bachelor-Thesis",
+        "items": []
+    }
+]

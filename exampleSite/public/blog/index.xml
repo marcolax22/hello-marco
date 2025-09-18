@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Initio - Free, multipurpose html5 template by GetTemplate</title>
+    <link>http://localhost:1313/blog/</link>
+    <description>Recent content in Blogs on Initio - Free, multipurpose html5 template by GetTemplate</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 18 Sep 2025 12:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building a datapipeline with dbt</title>
+      <link>http://localhost:1313/blog/2025-09-18_blog1/</link>
+      <pubDate>Thu, 18 Sep 2025 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2025-09-18_blog1/</guid>
+      <description>&lt;p&gt;Using dbt can make a lot of sense to build fast data pipelines &amp;hellip;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

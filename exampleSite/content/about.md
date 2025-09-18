@@ -5,14 +5,28 @@ type = "about"
 weight = 10
 +++
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet, consequuntur eius repellendus eos aliquid molestiae ea laborum ex quibusdam laudantium voluptates placeat consectetur quam aliquam beatae soluta accusantium iusto nihil nesciunt unde veniam magnam repudiandae sapiente.
+Hi! I am Marco Lax and I am a Social Data Scientist focusing on Data Engineering and Data Science to make use of data and support people to use data in a helpful way. Studying Political Science in my Bachelor degree and Social Data Science in my master degree helps me to think about data in a perspective of how to make use to gain insights and relate data to different fields.
 
-![about](../images/mac.jpg)
+Within my studies I gaines expertise in Natural Language Processing, Data Modeling, Data Pipelines and taking ownership of research projects.
 
-### Necessitatibus
+I worked besides my bachelors and masters degree as a Data Scienctist and Enginner in different Start Up companies. First at [KNIME](https://www.knime.com) as a Data Anaylst and afterwards at [Again ApS](https://again.bio) as a Data Scientist and Engineer.
 
-Velit, odit, eius, libero unde impedit quaerat dolorem assumenda alias consequuntur optio quae maiores ratione tempore sit aliquid architecto eligendi pariatur ab soluta doloremque dicta aspernatur labore quibusdam dolore corrupti quod inventore. Maiores, repellat, consequuntur eius repellendus eos aliquid molestiae ea laborum ex quibusdam laudantium voluptates placeat consectetur quam aliquam!
+At [CorrelAid](https://correlaid.org/en/) I supported the association as Head of Finances and within the board ... 
 
-### Fugit, laboriosam
+My skill set and tools is focused on:
 
-Eum, quasi, est, vitae, ipsam nobis consectetur ea aspernatur ad eos voluptatibus fugiat nisi perferendis impedit. Quam, nulla, excepturi, voluptate minus illo tenetur sint ab in culpa cumque impedit quibusdam. Saepe, molestias quia voluptatem natus velit fugiat omnis rem eos sapiente quasi quaerat aspernatur quisquam deleniti accusantium laboriosam odio id?
+**Programming & Data Analysis:**
+- Languages: Python, R, SQL
+- Web Basics: HTML, JavaScript
+
+**Data Engineering & Pipelines:**
+- ETL / ELT Tools: dbt, KNIME 
+- Cloud & Storage Platforms: Amazon S3, Digital Ocean
+- Version Control: Git
+
+**Data Visualization & Dashboards**
+- Interactive Dashboards: Shiny, Streamlit
+- BI & Reporting Tools: Power BI, Metabase, Excel
+
+**Project & Workflow Management**
+- Documentation & Collaboration: Confluence, Jira
