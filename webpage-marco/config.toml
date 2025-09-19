@@ -106,4 +106,4 @@ theme = "hugo-initio"
 
 [caches]
   [caches.images]
-    dir = ":cacheDir/images"
+    dir = ':cacheDir/images'
