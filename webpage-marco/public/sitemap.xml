@@ -21,13 +21,13 @@
     <loc>http://localhost:1313/about/</loc>
   </url><url>
     <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2013-06-17T12:00:00+00:00</lastmod>
+    <lastmod>2025-09-18T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/2025-09-18_blog1/</loc>
+    <lastmod>2025-09-18T12:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2013-06-17T12:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/vivamus-lacus-mauris/</loc>
-    <lastmod>2013-06-17T12:00:00+00:00</lastmod>
+    <lastmod>2025-09-18T12:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/home/subheader/</loc>
   </url><url>
