@@ -3,10 +3,6 @@ languageCode = "en"
 title = "Initio - Free, multipurpose html5 template by GetTemplate"
 theme = "hugo-initio"
 
-[caches]
-    [caches.images]
-        dir = ':cacheDir/images'
-
 [params]
     name = "Marco Lax"
     description = "Data Engineering and Data Science"
