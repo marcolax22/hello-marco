@@ -9,10 +9,6 @@
 ![GitHub stars](https://img.shields.io/github/stars/miguelsimoni/hugo-initio.svg?style=flat-square)
 ![GitHub watchers](https://img.shields.io/github/watchers/miguelsimoni/hugo-initio.svg?style=flat-square)
 
-[Hugo-Initio](https://miguelsimoni.github.io/hugo-initio-site/) is ported from the [Initio](http://www.gettemplate.com/info/initio/) template by [GetTemplate.com](http://www.gettemplate.com/) for [Hugo](https://gohugo.io/).
-
-![screenshot](https://raw.githubusercontent.com/miguelsimoni/hugo-initio/master/images/tn.png)
-
 ### Original Template Info
 
 **Licensing:** Creative Commons (for more options, go to the [original template site](http://www.gettemplate.com/info/initio/))  
@@ -40,56 +36,6 @@ More info: [hugo setup guide](https://gohugo.io/overview/installing/)
 
 [config.toml](https://github.com/miguelsimoni/hugo-initio/tree/master/exampleSite/config.toml)
 
-### Sections
-
-You can show or hide each home page section from the `config.toml`:
-
-```toml
-showSubheader = true
-showServices = true
-showRecentWorks = true
-showDownloads = true
-showClients = true
-```
-
-### Footer
-
-You can show or hide each footer widget from the `config.toml`:
-
-```toml
-showFooterContact = true
-showfooterFollowMe = true
-showFooterTextWidget = true
-showFooterFormWidget = true
-```
-
-### Social Networks
-
-You can add as many social networks as you want in the `params.social` array following this template:
-
-```toml
-[[params.social]]
-  title = "facebook"
-  url = "https://www.facebook.com/nickname"
-  icon = "fa-facebook-square"
-  footer = true
-  sharethis = true
-  network = "facebook"
-```
-
-See the whole configuration in the [config.toml](https://github.com/miguelsimoni/hugo-initio/tree/master/exampleSite/config.toml) file.
-
-### Comments
-
-Powered by [Disqus](https://disqus.com)
-
-```toml
-[params.disqus]
-    site = "your-disqus-short-name"
-```
-
-Disable the comments system by leaving the `params.disqus.site` empty.
-
 ### Google Analytics
 
 ```toml
@@ -114,14 +60,6 @@ Now enter [`http://localhost:1313/`](http://localhost:1313/) in the address bar 
 
 - [Hosting on GitHub](https://gohugo.io/hosting-and-deployment/hosting-on-github/)
 - [More hosting and deployment options](https://gohugo.io/hosting-and-deployment/)
-
-## Contributing
-
-- Found a bug?
-- Got an idea for a new feature?
-
-Let me know it using the [issue tracker](https://github.com/miguelsimoni/hugo-initio/issues).
-Or make it directly: [pull request](https://github.com/miguelsimoni/hugo-initio/pulls).
 
 ## License
 
