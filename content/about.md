@@ -5,28 +5,14 @@ type = "about"
 weight = 10
 +++
 
-Hi! I am Marco Lax and I am a Social Data Scientist focusing on Data Engineering and Data Science to make use of data and support people to use data in a helpful way. Studying Political Science in my Bachelor degree and Social Data Science in my master degree helps me to think about data in a perspective of how to make use to gain insights and relate data to different fields.
+Hi! I am Marco Lax and I am a Social Data Scientist focusing on Data Engineering and Data Science to make use of data and support people to use data in a helpful way. 
 
-Within my studies I gaines expertise in Natural Language Processing, Data Modeling, Data Pipelines and taking ownership of research projects.
+I got into Data Science first through the introduction of the statistics lecture in my first semester at university. Using R to analyse and look at data points fascinated me and opened up a new world beyond the theoretical assumptions of political theory. I decided to look more into the possibilities of data and started an internship at [KNIME](https://www.knime.com) as a Data Analyst after teaching myself R, Python and SQL. At KNIME I was able to learn a lot about data pipelines and stayed after my internship as a working student until the end of my bachelors degree.
 
-I worked besides my bachelors and masters degree as a Data Scienctist and Enginner in different Start Up companies. First at [KNIME](https://www.knime.com) as a Data Anaylst and afterwards at [Again ApS](https://again.bio) as a Data Scientist and Engineer.
+During my studies, I also became involved with [CorrelAid](https://correlaid.org/en/) to help mission-driven organisations increase their impact through data science. From 2021, I supported CorrelAid as part of the board, initially supporting community events and later taking on the role of Head of Finances. During this time, CorrelAid grew from four to thirteen employees, and we were able to establish the association within Germany with the help of many volunteers. I am currently active in the Statutory Committee, helping to develop the association further.
 
-At [CorrelAid](https://correlaid.org/en/) I supported the association as Head of Finances and within the board ... 
+After studying Political Science in my Bachelor degree in Constance I decided to move to Copenhagen and study Social Data Science in my master degree. Within my master degree I gained expertise in Natural Language Processing, Data Modeling, Data Pipelines and taking ownership of research projects. At [Again ApS](https://again.bio) I worked as a Data Scientist and Engineer. Helping the start up the analyse their data from the lab, as they want to develop novel biocatalysts that manufacture critical products from industrial waste gases such as CO₂. Our tools integrated over 10,000 hours of operational data. The bio-software platform enabled the development of novel technologies for heavy industry.
 
-My skill set and tools is focused on:
+Some of the work and projects can be seen at an inteview of [Karla Magazin](https://karla-magazin.de/wissen-verstehen/es-sollte-verstaendlich-sein-aber-es-wird-nicht-immer-vollstaendig-sein), the [KNIME Blog](https://www.knime.com/blog/how-a-social-scientist-investigated-global-emissions), and the [CorrelAid Blog](https://correlaid.org/en/blog/our-year-2024).
 
-**Programming & Data Analysis:**
-- Languages: Python, R, SQL
-- Web Basics: HTML, JavaScript
-
-**Data Engineering & Pipelines:**
-- ETL / ELT Tools: dbt, KNIME 
-- Cloud & Storage Platforms: Amazon S3, Digital Ocean
-- Version Control: Git
-
-**Data Visualization & Dashboards**
-- Interactive Dashboards: Shiny, Streamlit
-- BI & Reporting Tools: Power BI, Metabase, Excel
-
-**Project & Workflow Management**
-- Documentation & Collaboration: Confluence, Jira
+Get in touch via Mail, GitHub or LinkedIn.
