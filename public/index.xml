@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marco Lax</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Marco Lax</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 18 Sep 2025 12:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data Science</title>
+      <link>http://localhost:1313/home/experience/service1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/home/experience/service1/</guid>
+      <description>&lt;p&gt;I don&amp;rsquo;t think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn&amp;rsquo;t eat for three weeks. i once heard a wise man say there are no perfect men.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Download original template</title>
+      <link>http://localhost:1313/home/downloads/download1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/home/downloads/download1/</guid>
+      <description>&lt;p&gt;A simple, nice-looking &lt;strong&gt;call to action box&lt;/strong&gt;. Boxing is about respect. getting it for yourself, and taking it away from the other guy. no, this is mount everest.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Data Engineering</title>
+      <link>http://localhost:1313/home/experience/service2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/home/experience/service2/</guid>
+      <description>&lt;p&gt;I don&amp;rsquo;t think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn&amp;rsquo;t eat for three weeks. i once heard a wise man say there are no perfect men.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Data Governance</title>
+      <link>http://localhost:1313/home/experience/service3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/home/experience/service3/</guid>
+      <description>&lt;p&gt;I don&amp;rsquo;t think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn&amp;rsquo;t eat for three weeks. i once heard a wise man say there are no perfect men.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Hi! I am Marco Lax and I am a Social Data Scientist focusing on Data Engineering and Data Science to make use of data and support people to use data in a helpful way.&lt;/p&gt;&#xA;&lt;p&gt;I got into Data Science first through the introduction of the statistics lecture in my first semester at university. Using R to analyse and look at data points fascinated me and opened up a new world beyond the theoretical assumptions of political theory. I decided to look more into the possibilities of data and started an internship at &lt;a href=&#34;https://www.knime.com&#34;&gt;KNIME&lt;/a&gt; as a Data Analyst after teaching myself R, Python and SQL. At KNIME I was able to learn a lot about data pipelines and stayed after my internship as a working student until the end of my bachelors degree.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>To be announced</title>
+      <link>http://localhost:1313/blog/2025-09-18_blog1/</link>
+      <pubDate>Thu, 18 Sep 2025 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2025-09-18_blog1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/home/subheader/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/home/subheader/</guid>
+      <description>&lt;p&gt;Hi!&#xA;My name is Marco Lax and I am a Social Data Scientist.&lt;/p&gt;&#xA;&lt;p&gt;I studied Data Science and Statistics combined with Social Sciences and Political Science at the University of Copenhagen (M.Sc.), the University of Constance (B.A.), and the University of Strathclyde. My interest lies in data engineeering and data analysis to make evidence based decisions and building fast and efficient data pipelines.&lt;/p&gt;&#xA;&lt;p&gt;I have worked with several start-ups where data played a central role in driving growth and success.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Download HUGO template</title>
+      <link>http://localhost:1313/home/downloads/download2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/home/downloads/download2/</guid>
+      <description>&lt;p&gt;Another simple, nice-looking &lt;strong&gt;call to action box&lt;/strong&gt;. Boxing is about respect. getting it for yourself, and taking it away from the other guy. no, this is mount everest.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

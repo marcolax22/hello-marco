@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Marco Lax</title>
+    <link>http://localhost:1313/home/</link>
+    <description>Recent content in Homes on Marco Lax</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/home/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/home/subheader/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/home/subheader/</guid>
+      <description>&lt;p&gt;Hi!&#xA;My name is Marco Lax and I am a Social Data Scientist.&lt;/p&gt;&#xA;&lt;p&gt;I studied Data Science and Statistics combined with Social Sciences and Political Science at the University of Copenhagen (M.Sc.), the University of Constance (B.A.), and the University of Strathclyde. My interest lies in data engineeering and data analysis to make evidence based decisions and building fast and efficient data pipelines.&lt;/p&gt;&#xA;&lt;p&gt;I have worked with several start-ups where data played a central role in driving growth and success.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
