@@ -14,7 +14,7 @@ theme = "hugo-initio"
     avatarclass = "circle"
     background = ""
     banner = "images/bg_head.jpg"
-    favicon = "images/gt_favicon.png"
+    favicon = "images/marco.png"
     DateForm = "January 2, 2006"
     author = "Sergey Pozhilov (GetTemplate.com)"
 

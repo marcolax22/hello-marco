@@ -17,7 +17,7 @@ theme = "hugo-initio"
     avatarclass = "circle"
     background = ""
     banner = "images/sky.jpg"
-    favicon = "images/gt_favicon.png"
+    favicon = "images/marco.png"
     DateForm = "September 18, 2025"
     author = "Marco Lax"
 
@@ -107,3 +107,10 @@ theme = "hugo-initio"
     footer = true
     sharethis = true
     network = "email"
+
+[markup]
+  [markup.highlight]
+    noClasses = true
+    lineNos = true
+    lineNumbersInTable = true
+    style = "igor"  # solarized-light, igor
