@@ -20,7 +20,7 @@
 	
 	
   
-  <link rel="stylesheet" href="http://localhost:1313/css/styles.min.64a6643395c6bf1ec6fff31d6429046b3ad467e58a279ff252dc019edd80a87051cf90b7fe2d589277def72d84602dcbc7115e2e17a94db3a8838336986a0ae3.css" integrity="sha512-ZKZkM5XGvx7G//MdZCkEazrUZ&#43;WKJ5/yUtwBnt2AqHBRz5C3/i1Yknfe9y2EYC3LxxFeLhepTbOog4M2mGoK4w==">
+  <link rel="stylesheet" href="http://localhost:1313/css/styles.min.611c13006b709bc06c251cfc5cbd97e8d1e05e43daedeef0ef3cb9edd71711d7dcc63d5a661e4444293abb96349f05ebbb1b79bbff83f2f90786235cfd74ed92.css" integrity="sha512-YRwTAGtwm8BsJRz8XL2X6NHgXkPa7e7w7zy57dcXEdfcxj1aZh5ERCk6u5Y0nwXruxt5u/&#43;D8vkHhiNc/XTtkg==">
 
    
   
@@ -95,17 +95,42 @@
 					<header class="entry-header">
 						<div class="entry-meta">
                <span class="posted-on">
-                  <time class="entry-date published" datetime="September 98, 18180">September 18, 2025</time>
+                  <time class="entry-date published" datetime="September 98, 26260">September 26, 2025</time>
                </span>
 						</div>
 						<h1 class="entry-title">
-						  <a href="http://localhost:1313/blog/2025-09-18_blog1/" rel="bookmark">Trying out Model Context Protocol</a>
+						  <a href="http://localhost:1313/blog/2025-09-25_blog2/" rel="bookmark">Superintelligence by Nick Bolstrom</a>
+						</h1>
+					</header>
+					<div class="entry-content">
+						<p>After hearing from a lot of people and especially data scientists of the book &ldquo;Super intelligence&rdquo; by Nick Bolstrom I decided to finally read it.</p>
+<p>Sam Altman, Elon Musk are talking about this book as well and &hellip;</p>
+<p>Who is Nick Bolstrom? Nick Bolstrom is a philosphy professor at the university of &hellip;</p>
+<p>What is the book about? TL;DR:</p>
+<ul>
+<li>Talking about the development of a General Intelligence</li>
+<li></li>
+</ul>
+<p>I really think that the book is interesting to read</p>
+
+					</div>
+				</article>
+        
+				<article class="post">
+					<header class="entry-header">
+						<div class="entry-meta">
+               <span class="posted-on">
+                  <time class="entry-date published" datetime="September 98, 25250">September 25, 2025</time>
+               </span>
+						</div>
+						<h1 class="entry-title">
+						  <a href="http://localhost:1313/blog/2025-09-25_blog1/" rel="bookmark">Model Context Protocol and building an MCP server</a>
 						</h1>
 					</header>
 					<div class="entry-content">
 						<p>Looking at the <a href="https://modelcontextprotocol.io/docs/getting-started/intro">Model Context Protocol</a>.</p>
-<p>To get started I tried it out with an API of interest and wanted to connect it to the Claude AI.</p>
-<p>Therefore intialising a project with uv:</p>
+<p>To get started I tried it out with an API of interest and wanted to connect it to the Claude AI. I will write the MCP in Python, but there is also the possibility to write it in JS, C# or other languages. Before we start we will use <code>uv</code> to intintialise the project. <code>uv</code> is a single tool to replace pip, pip-tools, pipx, poetry, pyenv, twine, virtualenv, and more. If you have not looked into it, definitly <a href="https://docs.astral.sh/uv/">check it out</a>.</p>
+<p>Therefore intialising a project with <code>uv</code>in your terminal (my code is written for macOS/Linux):</p>
 <div class="highlight"><div style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
 <table style="border-spacing:0;padding:0;margin:0;border:0;"><tr><td style="vertical-align:top;padding:0;margin:0;border:0;">
 <pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code><span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 1

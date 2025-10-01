@@ -524,13 +524,13 @@ img {
 .entry-title {
   display: block;
   width: 100%;
-  overflow: hidden;
+  overflow: visible;
   margin: 0px 0 25px;
   text-align: center;
   font-weight: 300;
-  text-transform: uppercase;
-  font-size: 36px;
-  font-size: 2.25rem;
+  text-transform: none;
+  font-size: 20px;
+  font-size: 1.9rem;
   letter-spacing: 1px;
 }
 .section-title a,
